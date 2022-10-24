@@ -1,0 +1,54 @@
+1
+he went out
+salgo
+sales
+sale
+salimos
+salis
+salen
+sale
+2
+I ensure
+aseguro
+aseguras
+asegura
+aseguramos
+asegurais
+aseguran
+aseguro
+3
+you (plural) go
+voy
+vas
+va
+vamos
+vais
+van
+vais
+4
+you (plural) stop
+paro
+paras
+para
+paramos
+parais
+paran
+parais
+5
+I ask for
+pido
+pides
+pide
+pedimos
+pedis
+piden
+pido
+6
+they turn
+giro
+giras
+gira
+giramos
+girais
+giran
+giran

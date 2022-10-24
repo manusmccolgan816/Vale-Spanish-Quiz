@@ -1,0 +1,48 @@
+1
+we cook
+cocinamos
+comimos
+comemos
+cocinamos
+2
+to go down
+bajar
+holer
+fitar
+bajar
+3
+to leave behind
+crecer
+dejar
+doler
+dejar
+4
+it closes
+cierra
+cerra
+cuera
+cierra
+5
+to get dressed
+roparse
+ropar
+vestirse
+vestirse
+6
+they run
+corran
+corren
+jugan
+corren
+7
+to put
+poner
+tocar
+tomar
+poner
+8
+you (sing) comb
+peinas
+combas
+dentras
+peinas

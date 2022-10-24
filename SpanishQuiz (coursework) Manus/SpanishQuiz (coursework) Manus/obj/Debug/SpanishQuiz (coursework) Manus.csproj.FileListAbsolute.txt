@@ -1,0 +1,233 @@
+F:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\bin\Debug\SpanishQuiz (coursework) Manus.exe.config
+D:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\bin\Debug\SpanishQuiz (coursework) Manus.exe.config
+D:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\bin\Debug\SpanishQuiz (coursework) Manus.exe
+D:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\bin\Debug\SpanishQuiz (coursework) Manus.pdb
+D:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.csprojResolveAssemblyReference.cache
+D:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.Properties.Resources.resources
+D:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.csproj.GenerateResource.Cache
+D:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.exe
+D:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.pdb
+F:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.exe
+F:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.pdb
+F:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\bin\Debug\SpanishQuiz (coursework) Manus.exe
+F:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\bin\Debug\SpanishQuiz (coursework) Manus.pdb
+F:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.csprojResolveAssemblyReference.cache
+F:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.DragAndDrop.resources
+F:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.Properties.Resources.resources
+F:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.csproj.GenerateResource.Cache
+F:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.LoginScreen.resources
+D:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.LoginScreen.resources
+D:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.MenuScreen.resources
+F:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.MenuScreen.resources
+E:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\bin\Debug\SpanishQuiz (coursework) Manus.exe.config
+E:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\bin\Debug\SpanishQuiz (coursework) Manus.exe
+E:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\bin\Debug\SpanishQuiz (coursework) Manus.pdb
+E:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.csprojResolveAssemblyReference.cache
+E:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.LoginScreen.resources
+E:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.MenuScreen.resources
+E:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.Properties.Resources.resources
+E:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.csproj.GenerateResource.Cache
+E:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.csproj.CoreCompileInputs.cache
+E:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.exe
+E:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.pdb
+E:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ResultsScreen.resources
+D:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ResultsScreen.resources
+E:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.TextBoxFramework.resources
+D:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.TextBoxFramework.resources
+E:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.DropDownFramework.resources
+E:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.RadioButtonsFramework.resources
+E:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.PreQuizScreen.resources
+E:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.SplashScreen.resources
+E:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.MenuScreenHelp.resources
+E:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizSelectScreenHelp.resources
+E:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ResultsScreenHelp.resources
+D:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.DropDownFramework.resources
+D:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.MenuScreenHelp.resources
+D:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.PreQuizScreen.resources
+D:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizSelectScreenHelp.resources
+D:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.RadioButtonsFramework.resources
+D:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ResultsScreenHelp.resources
+D:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.SplashScreen.resources
+E:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizHelp.resources
+D:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizHelp.resources
+E:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ProfileScreen.resources
+D:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ProfileScreen.resources
+F:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.DropDownFramework.resources
+F:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.MenuScreenHelp.resources
+F:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.PreQuizScreen.resources
+F:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ProfileScreen.resources
+F:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizHelp.resources
+F:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizSelectScreenHelp.resources
+F:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.RadioButtonsFramework.resources
+F:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ResultsScreen.resources
+F:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ResultsScreenHelp.resources
+F:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.SplashScreen.resources
+F:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.TextBox.resources
+F:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.TextBoxFramework.resources
+F:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.csproj.CoreCompileInputs.cache
+E:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.LeaderboardScreen.resources
+D:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.LeaderboardScreen.resources
+E:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.DragAndDropGrammar.resources
+E:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.DragAndDropVocab.resources
+E:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.PreQuizHelp.resources
+D:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.DragAndDropGrammar.resources
+D:\SSD\Coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.DragAndDropVocab.resources
+C:\SSD backup\Manus entire CW backup 18.1.30\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\bin\Debug\SpanishQuiz (coursework) Manus.exe.config
+C:\SSD backup\Manus entire CW backup 18.1.30\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\bin\Debug\SpanishQuiz (coursework) Manus.exe
+C:\SSD backup\Manus entire CW backup 18.1.30\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\bin\Debug\SpanishQuiz (coursework) Manus.pdb
+C:\SSD backup\Manus entire CW backup 18.1.30\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.csprojResolveAssemblyReference.cache
+C:\SSD backup\Manus entire CW backup 18.1.30\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.DragAndDropGrammar.resources
+C:\SSD backup\Manus entire CW backup 18.1.30\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.DragAndDropVocab.resources
+C:\SSD backup\Manus entire CW backup 18.1.30\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.DropDownFramework.resources
+C:\SSD backup\Manus entire CW backup 18.1.30\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.LeaderboardScreen.resources
+C:\SSD backup\Manus entire CW backup 18.1.30\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.LoginScreen.resources
+C:\SSD backup\Manus entire CW backup 18.1.30\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.MenuScreen.resources
+C:\SSD backup\Manus entire CW backup 18.1.30\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.MenuScreenHelp.resources
+C:\SSD backup\Manus entire CW backup 18.1.30\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.PreQuizScreen.resources
+C:\SSD backup\Manus entire CW backup 18.1.30\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ProfileScreen.resources
+C:\SSD backup\Manus entire CW backup 18.1.30\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.Properties.Resources.resources
+C:\SSD backup\Manus entire CW backup 18.1.30\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizHelp.resources
+C:\SSD backup\Manus entire CW backup 18.1.30\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizSelectScreenHelp.resources
+C:\SSD backup\Manus entire CW backup 18.1.30\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.RadioButtonsFramework.resources
+C:\SSD backup\Manus entire CW backup 18.1.30\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ResultsScreen.resources
+C:\SSD backup\Manus entire CW backup 18.1.30\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ResultsScreenHelp.resources
+C:\SSD backup\Manus entire CW backup 18.1.30\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.SplashScreen.resources
+C:\SSD backup\Manus entire CW backup 18.1.30\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.TextBoxFramework.resources
+C:\SSD backup\Manus entire CW backup 18.1.30\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.csproj.GenerateResource.Cache
+C:\SSD backup\Manus entire CW backup 18.1.30\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.csproj.CoreCompileInputs.cache
+C:\SSD backup\Manus entire CW backup 18.1.30\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.exe
+C:\SSD backup\Manus entire CW backup 18.1.30\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.pdb
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\bin\Debug\SpanishQuiz (coursework) Manus.exe.config
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.exe
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.pdb
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\bin\Debug\SpanishQuiz (coursework) Manus.exe.config
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\bin\Debug\SpanishQuiz (coursework) Manus.exe
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\bin\Debug\SpanishQuiz (coursework) Manus.pdb
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.csprojResolveAssemblyReference.cache
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.DragAndDropGrammar.resources
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.DragAndDropVocab.resources
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.DropDownFramework.resources
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.LeaderboardScreen.resources
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.LeaderboardScreenHelp.resources
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.LoginScreen.resources
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.LoginScreenHelp.resources
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.MenuScreen.resources
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.MenuScreenHelp.resources
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.PreQuizScreen.resources
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ProfileScreen.resources
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ProfileScreenHelp.resources
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.Properties.Resources.resources
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizDragAndDropHelp.resources
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizDropDownHelp.resources
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizHelpMenu.resources
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizRadioButtonsHelp.resources
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizSelectScreenHelp.resources
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.RadioButtonsFramework.resources
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ResultsScreen.resources
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ResultsScreenHelp.resources
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.SplashScreen.resources
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.TextBoxFramework.resources
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.csproj.GenerateResource.Cache
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.csproj.CoreCompileInputs.cache
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.exe
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.pdb
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizTextBoxHelp.resources
+E:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.csproj.ResolveComReference.cache
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.csproj.ResolveComReference.cache
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\bin\Debug\SpanishQuiz (coursework) Manus.exe
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\bin\Debug\SpanishQuiz (coursework) Manus.pdb
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.csprojResolveAssemblyReference.cache
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.DragAndDropGrammar.resources
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.DragAndDropVocab.resources
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.DropDownFramework.resources
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.LeaderboardScreen.resources
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.LeaderboardScreenHelp.resources
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.LoginScreen.resources
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.LoginScreenHelp.resources
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.MenuScreen.resources
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.MenuScreenHelp.resources
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.PreQuizScreen.resources
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ProfileScreen.resources
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ProfileScreenHelp.resources
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.Properties.Resources.resources
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizDragAndDropHelp.resources
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizDropDownHelp.resources
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizHelpMenu.resources
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizRadioButtonsHelp.resources
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizTextBoxHelp.resources
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizSelectScreenHelp.resources
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.RadioButtonsFramework.resources
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ResultsScreen.resources
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ResultsScreenHelp.resources
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.SplashScreen.resources
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.TextBoxFramework.resources
+D:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.csproj.GenerateResource.Cache
+H:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\bin\Debug\SpanishQuiz (coursework) Manus.exe.config
+H:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.csproj.ResolveComReference.cache
+H:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.exe
+H:\SSD\New coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.pdb
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\bin\Debug\SpanishQuiz (coursework) Manus.exe.config
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\bin\Debug\SpanishQuiz (coursework) Manus.exe
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\bin\Debug\SpanishQuiz (coursework) Manus.pdb
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.csprojResolveAssemblyReference.cache
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.csproj.ResolveComReference.cache
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.DragAndDropGrammar.resources
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.DragAndDropVocab.resources
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.DropDownFramework.resources
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.LeaderboardScreen.resources
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.LeaderboardScreenHelp.resources
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.LoginScreen.resources
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.LoginScreenHelp.resources
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.MenuScreen.resources
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.MenuScreenHelp.resources
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.PreQuizScreen.resources
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ProfileScreen.resources
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ProfileScreenHelp.resources
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.Properties.Resources.resources
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizDragAndDropHelp.resources
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizDropDownHelp.resources
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizHelpMenu.resources
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizRadioButtonsHelp.resources
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizTextBoxHelp.resources
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizSelectScreenHelp.resources
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.RadioButtonsFramework.resources
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ResultsScreen.resources
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ResultsScreenHelp.resources
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.SplashScreen.resources
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.TextBoxFramework.resources
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.csproj.GenerateResource.cache
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.csproj.CoreCompileInputs.cache
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.exe
+E:\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.pdb
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\bin\Debug\SpanishQuiz (coursework) Manus.exe.config
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.csproj.ResolveComReference.cache
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.exe
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.pdb
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\bin\Debug\SpanishQuiz (coursework) Manus.exe
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\bin\Debug\SpanishQuiz (coursework) Manus.pdb
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.csprojResolveAssemblyReference.cache
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.DragAndDropGrammar.resources
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.DragAndDropVocab.resources
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.DropDownFramework.resources
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.LeaderboardScreen.resources
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.LeaderboardScreenHelp.resources
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.LoginScreen.resources
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.LoginScreenHelp.resources
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.MenuScreen.resources
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.MenuScreenHelp.resources
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.PreQuizScreen.resources
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ProfileScreen.resources
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ProfileScreenHelp.resources
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.Properties.Resources.resources
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizDragAndDropHelp.resources
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizDropDownHelp.resources
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizHelpMenu.resources
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizRadioButtonsHelp.resources
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizTextBoxHelp.resources
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.QuizSelectScreenHelp.resources
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.RadioButtonsFramework.resources
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ResultsScreen.resources
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.ResultsScreenHelp.resources
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.SplashScreen.resources
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz__coursework__Manus.TextBoxFramework.resources
+E:\Year 13\SSD\Manus completed coursework\SpanishQuiz (coursework) Manus\SpanishQuiz (coursework) Manus\obj\Debug\SpanishQuiz (coursework) Manus.csproj.GenerateResource.Cache

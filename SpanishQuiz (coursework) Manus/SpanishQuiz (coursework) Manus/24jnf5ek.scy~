@@ -1,0 +1,165 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.IO;
+using System.Runtime.Serialization;
+using System.Runtime.Serialization.Formatters.Binary;
+
+namespace SpanishQuiz__coursework__Manus
+{
+    public partial class ResultsScreen : Form
+    {
+        User thisUser;
+        User[] users;
+        string selectedDifficulty;
+        string selectedTopic;
+        List<User> usersList = new List<User>();
+        string previousForm = "results";
+
+        public ResultsScreen(User ThisUser, User[] Users, string SelectedDifficulty, string SelectedTopic)
+        {
+            InitializeComponent();
+            this.CenterToScreen();
+            thisUser = ThisUser;
+            users = Users;
+            selectedDifficulty = SelectedDifficulty;
+            selectedTopic = SelectedTopic;
+
+            picAvatar.BackgroundImage = thisUser.Avatar;
+            lblUsername.Text = thisUser.Username;
+            lblScore.Text = Convert.ToString(thisUser.Score);
+            lblLevel.Text = Convert.ToString(thisUser.Level);
+            IncrementXp();
+
+            if (thisUser.Score > thisUser.Highscore)
+            {
+                lblNewHighscore.Visible = true;
+                thisUser.Highscore = thisUser.Score;
+                thisUser.Score = 0;
+                ReadFromFile();
+                WriteToFile();
+            }
+            lblHighscore.Text = Convert.ToString(thisUser.Highscore);
+        }
+
+        private void IncrementXp()
+        {
+            thisUser.Xp += thisUser.Score;
+
+            if(thisUser.Xp >= thisUser.MaxXp)
+            {
+                thisUser.Level++;
+                thisUser.Xp = Convert.ToInt32(thisUser.MaxXp) - thisUser.Xp; //Instead of resetting the user's xp after levelling up, the left over xp is set as their new xp
+                thisUser.MaxXp *= 1.5;
+                Math.Round(thisUser.MaxXp);
+            }
+        }
+
+        private void ReadFromFile()
+        {
+            Stream sr;
+            BinaryFormatter bf = new BinaryFormatter();
+            try
+            {
+                sr = File.OpenRead("Users.bin");
+                users = (User[])bf.Deserialize(sr);
+                sr.Close();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+
+        private void WriteToFile()
+        {
+            int counter = 0, indexForAccounts = 0; ;
+
+            foreach (User user in users)
+            {
+                counter++;
+                if (user.Username == thisUser.Username)
+                {
+                    indexForAccounts = counter;
+                }
+            }
+
+            //The index for account is -1 due to arrays having base 0
+            users[indexForAccounts - 1] = thisUser;
+
+            Stream sw;
+            BinaryFormatter bf = new BinaryFormatter();
+
+            try
+            {
+                sw = File.OpenWrite("Users.bin"); //Using openwrite will append to the file rather than overwriting
+                bf.Serialize(sw, users); //Changed users to usersList
+                sw.Close();
+            }
+            catch (SerializationException ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+
+        private void btnLeaderboards_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form Form1 = new LeaderboardScreen(thisUser, users, previousForm, selectedDifficulty, selectedTopic);
+            Form1.Show();
+        }
+
+        private void btnPlayAgain_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form Form1 = new TextBoxFramework(thisUser, users, selectedDifficulty, selectedTopic);
+            Form1.Show();
+        }
+
+        private void btnHome_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form Form1 = new MenuScreen(thisUser, users);
+            Form1.Show();
+        }
+        private void menuScreenToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form Form1 = new MenuScreenHelp();
+            Form1.Show();
+        }
+
+        private void quizSelectScreenToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form Form1 = new QuizSelectScreenHelp();
+            Form1.Show();
+        }
+
+        private void quizTutorialToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form Form1 = new QuizHelp();
+            Form1.Show();
+        }
+
+        private void resultsScreenTutorialToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form Form1 = new ResultsScreenHelp();
+            Form1.Show();
+        }
+
+        private void areYouSureToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            DialogResult exitProgramConfirmation = MessageBox.Show("Are you sure you want to close the program?", "Exit program", MessageBoxButtons.YesNo);
+
+            if (exitProgramConfirmation == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
+        }
+    }
+}

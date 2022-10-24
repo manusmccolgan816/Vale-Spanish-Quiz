@@ -1,0 +1,48 @@
+1
+to play (instrument)
+TOCAR
+easterEgg
+2
+I sing
+CANTO
+easterEgg
+3
+we play (game)
+JUGAMOS
+easterEgg
+4
+I clean
+LIMPIO
+easterEgg
+5
+he dances
+BAILA
+easterEgg
+6
+to speak
+HABLAR
+easterEgg
+7
+to win
+GANAR
+easterEgg
+8
+she opens
+ABRE
+easterEgg
+9
+I write
+ESCRIBO
+easterEgg
+10
+to smell
+OLER
+easterEgg
+11
+we change
+CAMBIAMOS
+easterEgg
+12
+to go
+IR
+easterEgg

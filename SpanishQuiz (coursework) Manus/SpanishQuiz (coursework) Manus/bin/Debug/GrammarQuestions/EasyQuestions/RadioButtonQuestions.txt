@@ -1,0 +1,54 @@
+1
+we sing
+canto
+cantas
+canta
+cantamos
+cantais
+cantan
+cantamos
+2
+he sleeps
+duermo
+duermes
+duerme
+dormimos
+dormis
+duermen
+duerme
+3
+they eat
+como
+comes
+come
+comemos
+comeis
+comen
+comen
+4
+we drink
+bebo
+bebes
+bebe
+bebemos
+bebeis
+beben
+bebemos
+5
+she falls
+caigo
+caes
+cae
+caemos
+caeis
+caen
+cae
+6
+they read
+leo
+lees
+lee
+leemos
+leeis
+leen
+leen
